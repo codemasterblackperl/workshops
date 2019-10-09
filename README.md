@@ -2,6 +2,11 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2bbf9f6f912d4ead809b0646789eba04)](https://app.codacy.com/app/brentkearney/workshops?utm_source=github.com&utm_medium=referral&utm_content=brentkearney/workshops&utm_campaign=Badge_Grade_Dashboard)
 
+# Sparkpost Branch
+This branch is just to preserve the Workshops configuration for sending email via [SparkPost](https://www.sparkpost.com). The master branch is merged with the "mailgun" branch, to use [Mailgun](https://www.mailgun.com) instead.
+
+
+
 "Workshops" is software for managing scientific meetings, or small conferences. It is made with [Ruby on Rails](http://rubyonrails.org)
 and released under the GPL-A open-source license. The software is intended to be used by institutions/organizations
 who host workshops. It is used at the
